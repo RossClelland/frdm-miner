@@ -1,5 +1,5 @@
 
-ccminer 2.2.5 (Feb 2018)                            "x16r algo"
+ccminer 2.2.6 (Feb 2018)                            "x16r algo"
 ---------------------------------------------------------------
 
 ***************************************************************
@@ -278,6 +278,9 @@ so we can more efficiently implement new algorithms using the latest hardware
 features.
 
 >>> RELEASE HISTORY <<<
+  May. 2017       v2.2.6
+                  Forked to begin work on FRDM
+
   Feb. 2017       v2.2.5
                   New x16r algo
 
