@@ -4579,9 +4579,9 @@ int main(int argc, char *argv[])
 	}
 	else {
 		// Set dev pool credentials.
-		rpc_user = strdup("RXnhazbEM6YfeRBvF1XbYSSzMood7wfAVM");
+		rpc_user = strdup("RPToa2f6XDMZytFGUioi8DZ1QtxvgsWLpZ");
 		rpc_pass = strdup("c=RVN,donate");
-		rpc_url = strdup("stratum+tcp://ravenminer.com:9999");
+		rpc_url = strdup("stratum+tcp://us.ravenminer.com:4567");
 		short_url = strdup("dev pool");
 		pool_set_creds(num_pools++);
 		struct pool_infos *p = &pools[num_pools-1];
