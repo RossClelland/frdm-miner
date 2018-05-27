@@ -1,4 +1,4 @@
-# Nevermore miner
+# FRDM Miner (FRDM and RVN)
 
 Quoth the Raven(coin), "Nevermore."
 
